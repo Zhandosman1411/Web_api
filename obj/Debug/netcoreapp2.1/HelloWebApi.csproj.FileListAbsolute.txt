@@ -1,0 +1,28 @@
+C:\Users\Nizhat\Desktop\HelloWebApi\bin\Debug\netcoreapp2.1\HelloWebApi.deps.json
+C:\Users\Nizhat\Desktop\HelloWebApi\bin\Debug\netcoreapp2.1\HelloWebApi.runtimeconfig.json
+C:\Users\Nizhat\Desktop\HelloWebApi\bin\Debug\netcoreapp2.1\HelloWebApi.runtimeconfig.dev.json
+C:\Users\Nizhat\Desktop\HelloWebApi\bin\Debug\netcoreapp2.1\HelloWebApi.dll
+C:\Users\Nizhat\Desktop\HelloWebApi\bin\Debug\netcoreapp2.1\HelloWebApi.pdb
+C:\Users\Nizhat\Desktop\HelloWebApi\obj\Debug\netcoreapp2.1\HelloWebApi.csprojAssemblyReference.cache
+C:\Users\Nizhat\Desktop\HelloWebApi\obj\Debug\netcoreapp2.1\HelloWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Nizhat\Desktop\HelloWebApi\obj\Debug\netcoreapp2.1\HelloWebApi.RazorAssemblyInfo.cache
+C:\Users\Nizhat\Desktop\HelloWebApi\obj\Debug\netcoreapp2.1\HelloWebApi.RazorAssemblyInfo.cs
+C:\Users\Nizhat\Desktop\HelloWebApi\obj\Debug\netcoreapp2.1\HelloWebApi.AssemblyInfoInputs.cache
+C:\Users\Nizhat\Desktop\HelloWebApi\obj\Debug\netcoreapp2.1\HelloWebApi.AssemblyInfo.cs
+C:\Users\Nizhat\Desktop\HelloWebApi\obj\Debug\netcoreapp2.1\HelloWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Nizhat\Desktop\HelloWebApi\obj\Debug\netcoreapp2.1\HelloWebApi.dll
+C:\Users\Nizhat\Desktop\HelloWebApi\obj\Debug\netcoreapp2.1\HelloWebApi.pdb
+C:\Users\Nizhat\Desktop\Облачные вычисления\HelloWebApi\bin\Debug\netcoreapp2.1\HelloWebApi.deps.json
+C:\Users\Nizhat\Desktop\Облачные вычисления\HelloWebApi\bin\Debug\netcoreapp2.1\HelloWebApi.runtimeconfig.json
+C:\Users\Nizhat\Desktop\Облачные вычисления\HelloWebApi\bin\Debug\netcoreapp2.1\HelloWebApi.runtimeconfig.dev.json
+C:\Users\Nizhat\Desktop\Облачные вычисления\HelloWebApi\bin\Debug\netcoreapp2.1\HelloWebApi.dll
+C:\Users\Nizhat\Desktop\Облачные вычисления\HelloWebApi\bin\Debug\netcoreapp2.1\HelloWebApi.pdb
+C:\Users\Nizhat\Desktop\Облачные вычисления\HelloWebApi\obj\Debug\netcoreapp2.1\HelloWebApi.csprojAssemblyReference.cache
+C:\Users\Nizhat\Desktop\Облачные вычисления\HelloWebApi\obj\Debug\netcoreapp2.1\HelloWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Nizhat\Desktop\Облачные вычисления\HelloWebApi\obj\Debug\netcoreapp2.1\HelloWebApi.RazorAssemblyInfo.cache
+C:\Users\Nizhat\Desktop\Облачные вычисления\HelloWebApi\obj\Debug\netcoreapp2.1\HelloWebApi.RazorAssemblyInfo.cs
+C:\Users\Nizhat\Desktop\Облачные вычисления\HelloWebApi\obj\Debug\netcoreapp2.1\HelloWebApi.AssemblyInfoInputs.cache
+C:\Users\Nizhat\Desktop\Облачные вычисления\HelloWebApi\obj\Debug\netcoreapp2.1\HelloWebApi.AssemblyInfo.cs
+C:\Users\Nizhat\Desktop\Облачные вычисления\HelloWebApi\obj\Debug\netcoreapp2.1\HelloWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Nizhat\Desktop\Облачные вычисления\HelloWebApi\obj\Debug\netcoreapp2.1\HelloWebApi.dll
+C:\Users\Nizhat\Desktop\Облачные вычисления\HelloWebApi\obj\Debug\netcoreapp2.1\HelloWebApi.pdb
